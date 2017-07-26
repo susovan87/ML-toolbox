@@ -19,7 +19,7 @@ X[:, 3] = labelencoder.fit_transform(X[:, 3])
 onehotencoder = OneHotEncoder(categorical_features = [3])
 X = onehotencoder.fit_transform(X).toarray()
 
-# Avoiding the Dummy Variable Trap
+# Avoid Dummy Variable Trap
 X = X[:, 1:]"""
 
 
