@@ -1,3 +1,13 @@
+# Regression
+
+## Bias & Variance
+The `bias` is error from erroneous assumptions in the learning algorithm. High bias can cause an algorithm to miss the relevant relations between features and target outputs (`underfitting`).
+
+The `variance` is error from sensitivity to small fluctuations in the training set. High variance can cause `overfitting`: modeling the random noise in the training data, rather than the intended outputs.
+
+
+## Pros & Cons
+
 | **Algorithm** |	**Pros** |	**Cons** |
 | --- | --- | --- |
 | *Linear regression* | Works on any size of dataset, gives informations about relevance of features | The Linear Regression Assumptions |
