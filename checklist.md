@@ -2,7 +2,7 @@
   1. **Hypothesis Generation**
   > understanding the problem better by brainstorming possible factors that can impact the outcome
   2. **Data Exploration**
-  > looking at categorical and continuous feature summaries and making inferences about the data.
+  > looking at categorical and continuous feature summaries and making inferences about the data
   3. **Data Cleaning**
   > imputing missing values in the data and checking for outliers
   4. **Feature Engineering**
